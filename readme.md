@@ -1,24 +1,5 @@
 # RESTful Web Services with Spring and Spring Boot
 
-Building RESTful web services with Spring Boot is fun. In this course, we will discover why Spring, Spring MVC and Spring Boot is becoming the best framework combination to develop RESTful web services. 
-
-You will learn
-- What is a RESTful Web Service? 
-- How to implement RESTful Web Services with Spring and Spring Boot?
-- What are the best practices in designing RESTful Web Services? 
-- How to design Resources and GET, POST and DELETE operations?
-- How to implement Validation for RESTful Web Services? 
-- How to implement Exception Handling for RESTful Web Services? 
-- What is HATEOAS? How to implement HATEOAS for a Resource?
-- What are the different approach in versioning RESTful Services?
-- How to use Postman to execute RESTful Service Requests?
-- How to implement basic authentication with Spring Security?
-- How to implement filtering for RESTful Services?
-- How to monitor RESTful Services with Spring Boot Actuator?
-- How to document RESTful Web Services with Swagger?
-- How to connect RESTful Services to a backend with JPA?
-
-## Steps
 
 ### Basics of RESTful Services
 - Step 01 - Initializing a RESTful Services Project with Spring Boot
@@ -74,7 +55,7 @@ We will help you install
 
 - POSTMAN - http://www.getpostman.com
 
-### Links from course examples
+### Rest API for USER AND POST 
 - Basic Resources
   - http://localhost:8080/hello-world
   - http://localhost:8080/hello-world-bean
